@@ -1,0 +1,13 @@
+#+TITLE: firt org blog
+#+DATE: 2016-07-29
+#+SETUPFILE: ~/blog/setupfile.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES: 
+#+JEKYLL_TAGS: 
+#+JEKYLL_PUBLISHED: true
+
+* 怎么使用orgmode 写博客
+
+{{{more}}}
+
+
