@@ -71,7 +71,14 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: rsync
+  host: 45.56.99.16
+  user: root
+  root: "/var/www/hexo/"
+  port: 22
+  delete: true
+  verbose: true
+  ignore_errors: false
 
 
 dispus_shortname: charlescliff
