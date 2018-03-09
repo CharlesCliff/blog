@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 上善若水
 subtitle:
-description: Php Java Emcas
+description: PHP Java Emcas
 author: Charles Cliff
 language: zh-CN
 timezone:
@@ -67,6 +67,7 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 #theme: landscape
 theme: icarus
+#theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -84,3 +85,16 @@ deploy:
 dispus_shortname: charlescliff
 
 baidu_tongji: true
+
+douban:
+  user: 83686064
+  book:
+    title: 'This is my book title'
+    quote: 'This is my book quote'
+  movie:
+    title: 'This is my movie title'
+    quote: 'This is my movie quote'
+  game:
+    title: 'This is my game title'
+    quote: 'This is my game quote'
+  timeout: 10000 #optional

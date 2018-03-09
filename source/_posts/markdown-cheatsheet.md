@@ -1,7 +1,9 @@
 title: markdown-cheatsheet
 author: Charles Cliff
-tags: []
-categories: []
+tags:
+  - tools
+categories:
+  - tool
 date: 2018-03-08 16:47:00
 ---
 >转载 [markdown-cheatsheet wiki from github](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)

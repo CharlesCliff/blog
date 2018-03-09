@@ -1,6 +1,9 @@
 title: springboot kafka集成
-tags: []
-categories: []
+tags:
+  - spring
+  - kafka
+categories:
+  - java
 date: 2018-03-08 14:31:00
 ---
 ##### 1、pom配置
