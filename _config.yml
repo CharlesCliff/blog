@@ -66,8 +66,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-theme: icarus
-#theme: next
+#theme: icarus
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -89,8 +89,8 @@ baidu_tongji: true
 douban:
   user: 83686064
   book:
-    title: 'This is my book title'
-    quote: 'This is my book quote'
+    title: '书单'
+    quote: '但行好事，莫问前程'
   movie:
     title: 'This is my movie title'
     quote: 'This is my movie quote'
