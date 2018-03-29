@@ -7,6 +7,13 @@ categories:
 date: 2018-03-08 14:31:00
 ---
 ##### 1、pom配置
+```pom
+<dependency>
+ 	<groupId>org.springframework.kafka</groupId>
+    <artifactId>spring-kafka</artifactId>
+    <version>${spring-kafka.version}</version>
+</dependency>
+```
 
 ##### 2. codeblock
 ```c++
